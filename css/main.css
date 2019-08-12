@@ -1106,7 +1106,7 @@ header .logo {
 	float: left;
 	margin-left: 20px;
 	margin-right: 50px;
-	margin-top: 0px;
+	margin-top: 5px;
 	position: relative;
 }
 header .logo a {
@@ -1118,9 +1118,9 @@ header .logo a {
 	text-shadow: none;
 	color: transparent;
 	width: 92px;
-	height: 140px;
-	background: url("../images/logo3.png") no-repeat center;
-	background-size: 92px 92px;
+	height: 70px;
+	background: url("../images/logo2.png") no-repeat center;
+	background-size: 92px 50px;
 }
 
 /**
@@ -1131,8 +1131,8 @@ header .logo a {
 	float: left;
 	width: 40px;
 	height: 40px;
-	margin-left: 20px;
-	margin-top: 40px;
+	margin-left: 30px;
+	margin-top: 20px;
 	display: block;
 	position: relative;
 }
